@@ -18,3 +18,4 @@ create table players(
 	salary integer,
 	team_id integer references teams
 );
+
